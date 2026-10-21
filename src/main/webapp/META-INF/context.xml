@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/portal-robotica">
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxIdle="10" maxTotal="20" maxWaitMillis="10000" name="jdbc/PortalRobotica" password="A2007*a*2007A" type="javax.sql.DataSource" url="jdbc:postgresql://aws-0-sa-east-1.pooler.supabase.com:5432/postgres" username="postgres.kbvkfvndninjqokcpzln"/>
+</Context>
